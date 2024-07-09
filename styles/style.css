@@ -261,3 +261,56 @@ body {
   font-weight: 700;
   color: black;
 }
+
+/* I need support section start */
+.support-container {
+  width: 946px;
+  height: 259px;
+  border: 1px solid black;
+  margin: 0px auto 66px;
+  background-image: url(../assets/handshake.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: overlay;
+}
+
+.support-contenet {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.support-contenet h1 {
+  margin-bottom: 19px;
+  font-size: 27px;
+  font-weight: 700;
+  color: white;
+}
+
+.support-contenet p {
+  font-size: 13px;
+  font-weight: 300;
+  color: rgb(13, 19, 33);
+  color: white;
+}
+
+.support-feedback {
+  width: 454px;
+  height: 47px;
+  border-radius: 6px;
+  font-size: 13px;
+  padding: 12px;
+}
+
+.support-submit {
+  width: 99px;
+  height: 47px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.support-feedback-submit {
+  margin-top: 45px;
+}
