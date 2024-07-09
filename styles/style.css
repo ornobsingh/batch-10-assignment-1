@@ -186,3 +186,78 @@ body {
   margin-top: 5%;
   margin-left: 15px;
 }
+
+/* My Current Target section start */
+.Current-Target-container {
+  width: 946px;
+  height: 381px;
+  margin: 125px auto 92px;
+}
+
+.Current-Target-heading {
+  text-align: center;
+}
+
+.Current-Target-heading h1 {
+  margin-bottom: 19px;
+  font-size: 27px;
+  font-weight: 700;
+}
+
+.Current-Target-heading p {
+  font-size: 13px;
+  font-weight: 300;
+  color: rgb(13, 19, 33);
+}
+
+.Current-Target-flex-items {
+  display: flex;
+  gap: 20px;
+  margin-top: 53px;
+}
+
+.Current-Target-items {
+  display: flex;
+  width: 302px;
+  height: 248px;
+}
+
+.Current-Target-html {
+  padding: 33px;
+  background-color: rgba(255, 76, 30, 0.05);
+}
+
+.Current-Target-css {
+  padding: 33px;
+  background-color: rgba(0, 76, 232, 0.05);
+}
+
+.Current-Target-js {
+  padding: 33px;
+  background-color: rgba(255, 223, 0, 0.05);
+}
+
+.Current-Target-image {
+  width: 46px;
+  height: 46px;
+}
+
+.Current-Target-description h2 {
+  margin-top: 20px;
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.Current-Target-description p {
+  margin-top: 20px;
+  font-size: 13px;
+  font-weight: 300;
+  color: rgb(13, 19, 33);
+  margin-bottom: 20px;
+}
+
+.Current-Target-description a {
+  font-size: 13px;
+  font-weight: 700;
+  color: black;
+}
