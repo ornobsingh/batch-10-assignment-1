@@ -156,3 +156,33 @@ body {
   border: 2px solid rgba(13, 19, 33, 0.7);
   ;
 }
+
+/* My Inspiration section start */
+.my-inspiration-container {
+  width: 946px;
+  height: 613px;
+  margin: 0px auto;
+}
+
+.inspiration-title {
+  text-align: center;
+}
+
+.inspiration-title h1 {
+  margin-bottom: 20px;
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.inspiration-title p {
+  font-size: 13px;
+  font-weight: 300;
+  color: rgb(13, 19, 33);
+}
+
+.inspiration-video iframe {
+  margin-top: 40px;
+  padding: 26px;
+  margin-top: 5%;
+  margin-left: 15px;
+}
