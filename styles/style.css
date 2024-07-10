@@ -39,11 +39,13 @@ body {
   font-size: 40px;
   font-weight: 700;
   margin-bottom: 10px;
+  letter-spacing: -1px;
 }
 
 .hero-content h2 {
   font-size: 40px;
   font-weight: 700;
+  letter-spacing: -1px;
 }
 
 .hero-content p {
